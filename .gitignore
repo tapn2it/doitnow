@@ -10,4 +10,4 @@ pom.xml
 .lein-plugins
 .lein-env
 .idea
-.iml
+*.iml
